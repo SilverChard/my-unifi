@@ -1,3 +1,3 @@
-module github.com/SilverChard/my-ucg
+module github.com/SilverChard/my-unifi
 
 go 1.22
